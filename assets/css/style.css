@@ -1,0 +1,31 @@
+.bg{
+    background-color: gray;
+}
+
+.contentCenter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+body{
+    font-size: small;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.paragraphFooter{
+    margin-top: 2em;
+    color: white;
+}
+
+.titleSite{
+    text-align: center;
+    margin-top: 1em;
+}
+
+.textPageOne{
+   display: flex;
+   flex-direction: column; 
+}
